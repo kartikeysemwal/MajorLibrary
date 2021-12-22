@@ -1,4 +1,4 @@
 {
     "secret": "abcd",
-    "connectionString": "mongodb://localhost:27017/library"
+    "connectionString": "mongodb+srv://Kartikey:fBxHbCHQL56Vt2X4@cluster0.0iivq.mongodb.net/e-commerce?retryWrites=true&w=majority"
 }
